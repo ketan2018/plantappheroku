@@ -1,0 +1,6 @@
+tensorflow==2.9.2
+streamlit==1.9.0
+streamlit-option-menu==0.3.2
+PIL==8.1.0
+numpy==1.20.1
+protobuf==3.20.1
